@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on E-commerce platforms
+- 🌱 I’m currently learning Python/Flask, C, Clean Code Patterns, and Data Structure, Artificial intelligence
+- 😄 Pronouns: He, Him, His
+- Hobbies: Piano, Workout
+
 <!--
 **myke-oliveira/myke-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
