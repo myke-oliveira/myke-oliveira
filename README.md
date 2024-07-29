@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on E-commerce platforms
-- 🌱 I’m currently learning Python/Flask, C, Clean Code Patterns, and Data Structure, Artificial intelligence
+- 🌱 I’m currently learning Python/Flask, C, Clean Code Patterns, Data Structure, Artificial intelligence, and DevOps
 - 😄 Pronouns: He, Him, His
 - Hobbies: Piano, Workout
 - 📫 How to reach me:
