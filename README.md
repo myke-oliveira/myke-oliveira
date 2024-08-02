@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on E-commerce platforms
 - 🌱 I’m currently learning Python/Flask, NodeJS/Nest, C, Clean Code Patterns, Data Structure, Artificial intelligence, and DevOps
 - 😄 Pronouns: He, Him, His
-- Hobbies: Piano, Workout
 - 📫 How to reach me:
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&url=https://wa.me/+5513988047620)](https://wa.me/+5513988047620)
