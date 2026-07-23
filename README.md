@@ -1,7 +1,7 @@
 ## 👋 Hi there, my name is Myke!!!
 
 - 🔭 I’m currently working on E-commerce platforms
-- 🌱 I’m currently learning Python/Flask, NodeJS/Nest, C, Clean Code Patterns, Data Structure, Artificial intelligence, and DevOps
+- 🌱 I’m currently learning NodeJS/Nest, Clean Code Patterns, Data Structure and Algorithms, Python for Data Enginnering, and DevOps.
 - 😄 Pronouns: He, Him, His
 - 📫 How to reach me:
 
