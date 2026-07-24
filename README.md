@@ -9,14 +9,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&url=https://sujeitoprogramador.com/)](mailto:mykeapo@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitee&url=https://www.linkedin.com/in/myke-oliveira/)](https://www.linkedin.com/in/myke-oliveira/)
 
-<div align="center">
-
-![Myke's github stats](https://github-readme-stats.vercel.app/api?username=myke-oliveira&amp;theme=dracula&amp;show_icons=true&amp;hide_border=false&amp;count_private=true)
-
-![Myke's github streak](https://github-readme-streak-stats.herokuapp.com/?user=myke-oliveira&amp;theme=dracula&amp;hide_border=false)
-
-![Myke's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myke-oliveira&amp;theme=dracula&amp;show_icons=true&amp;hide_border=false&amp;layout=compact)
-</div>
 <!--
 **myke-oliveira/myke-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
